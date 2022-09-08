@@ -191,6 +191,7 @@ export const CountryCodeList = [
   'WS',
   'SM',
   'SA',
+  'GB-SCT',
   'SN',
   'RS',
   'SC',
