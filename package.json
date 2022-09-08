@@ -38,10 +38,13 @@
     "country",
     "flag"
   ],
-  "author": "Xavier Carpentier <xcapetir@gmail.com> (https://xaviercarpentier.com/)",
+  "author": "Lokesh Jangid",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xcarpentier/react-native-country-picker-modal/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
   },
   "homepage": "http://xcarpentier.github.io/react-native-country-picker-modal",
   "dependencies": {
