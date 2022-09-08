@@ -44,7 +44,8 @@
     "url": "https://github.com/xcarpentier/react-native-country-picker-modal/issues"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "homepage": "http://xcarpentier.github.io/react-native-country-picker-modal",
   "dependencies": {
